@@ -5,7 +5,7 @@ public class Newhw {
 	public static void main(String[] args) {
 	/*
 		//hw 1
-		
+		hcgh
 		String weather;
 		weather=30;
 		
