@@ -46,9 +46,9 @@ public class Newhw {
 			System.out.println("Not Eligible");
 		}
 		
+		System.out.println("Not Eligible");
 		
-		
-		
+		System.out.println("Not Eligible");
 		
 		
 		
